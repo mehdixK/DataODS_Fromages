@@ -1,10 +1,14 @@
-# Exerice - Opendatasoft
+# Exercice - Opendatasoft
+
+Cet exercice, nous permet d'utiliser certaines fonctionnnalités proposées par la plateforme ouverte de tables de données Opendatasoft.
 
 ## Liste des fromages Français
 
 ### Le jeu de données utilisé est disponible ci-dessous :
 
 <iframe src="https://data.opendatasoft.com/explore/embed/dataset/fromagescsv-fromagescsv@public/table/?disjunctive.fromage&location=5,46.66619,2.91208&basemap=jawg.streets&dataChart=eyJxdWVyaWVzIjpbeyJjb25maWciOnsiZGF0YXNldCI6ImZyb21hZ2VzY3N2LWZyb21hZ2VzY3N2QHB1YmxpYyIsIm9wdGlvbnMiOnsiZGlzanVuY3RpdmUuZnJvbWFnZSI6dHJ1ZX19LCJjaGFydHMiOlt7ImFsaWduTW9udGgiOnRydWUsInR5cGUiOiJjb2x1bW4iLCJmdW5jIjoiQ09VTlQiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiJyYW5nZS1BY2NlbnQifV0sInhBeGlzIjoiZGVwYXJ0ZW1lbnQiLCJtYXhwb2ludHMiOjUwLCJzb3J0IjoiIiwic2VyaWVzQnJlYWtkb3duIjoibGFpdCIsInNlcmllc0JyZWFrZG93blRpbWVzY2FsZSI6IiJ9XSwidGltZXNjYWxlIjoiIiwiZGlzcGxheUxlZ2VuZCI6dHJ1ZSwiYWxpZ25Nb250aCI6dHJ1ZX0%3D&static=false&datasetcard=false" width="400" height="300" frameborder="0"></iframe>
+
+Ce jeu de données traite des fromages français. Nous y retrouvons plusieurs données sur des variétés de fromages dans tous les départements français producteurs de fromages. Les données repertoriées sont les suivantes : Le nom du fromage, le lait utilisé, le département de provenance, la page wikipédia associée ainsi que sa version anglaise.
 
 ### Quel type de lait est le plus utilisé en fonction du département ?
 
