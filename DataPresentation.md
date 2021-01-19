@@ -12,11 +12,4 @@
 
 ### Quelle est la région la plus diversifées en termes de fromages ?
 
-<ods-dataset-context context="fromagescsvfromagescsvpublic" fromagescsvfromagescsvpublic-dataset="fromagescsv-fromagescsv@public">
-    <ods-map no-refit="true" scroll-wheel-zoom="false" display-control="true" search-box="true" toolbar-fullscreen="true" toolbar-geolocation="true" basemap="jawg.streets" location="6,47.1449,1.18652">
-        <ods-map-layer-group>
-            <ods-map-layer context="fromagescsvfromagescsvpublic" color="#B060A3" picto="ods-circle" show-marker="true" display="clusters" function="COUNT" shape-opacity="0.5" point-opacity="1" border-color="#5A1887" border-opacity="0.5" border-size="2" border-pattern="solid" caption="true" caption-picto-color="#E5E5E5" title="Liste des Fromages Français" description="Ce jeu de données réunit la liste de 338 spécialités fromagères françaises." size-min="3" size-max="5" size-function="linear"></ods-map-layer>
-        </ods-map-layer-group>
-    </ods-map>
-
-</ods-dataset-context>
+<iframe frameborder="0" width="800" height="600" src="https://data.opendatasoft.com/map/embed/varietes_de_fromages_par_departements/?&static=false&scrollWheelZoom=true"></iframe>
